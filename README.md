@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/Target365/sdk-for-net.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ### Getting started
-To get started please send us an email at <support@target365.no> containing your EC public key in DER(ANS.1) format.
+To get started please send us an email at <sdk@strex.no> containing your EC public key in DER(ANS.1) format.
 See our [C# User Guide](USERGUIDE.md) on how to generate your private-public key pair in C#.
 
 ### NuGet
@@ -27,7 +27,7 @@ Our production environment is a mix of per-tenant isolated environments and a sh
 #### Url: https://shared.target365.io/
 
 ### Authors and maintainers
-Target365 (<support@target365.no>)
+Target365 (<sdk@strex.no>)
 
 ### Issues / Bugs / Questions
 Please feel free to raise an issue against this repository if you have any questions or problems.
